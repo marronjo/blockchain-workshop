@@ -11,3 +11,9 @@
 ## Folders
 * `/intro` contains all of the code covered in the intro workshop
 * `/advanced` contains more advanced projects using hardhat and truffle
+
+## More Learning Resources
+* [Solidity Tutorial Series](https://www.youtube.com/watch?v=IkCfIE1VoRo) 
+* [Web3 JS Series](https://www.youtube.com/watch?v=t3wM5903ty0&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
+* [Truffle Smart Contract Manager](https://www.youtube.com/watch?v=ZaqAwOzEiQ8)
+* [Hardhat Smart Contract Manager](https://www.youtube.com/watch?v=9Qpi80dQsGU)
