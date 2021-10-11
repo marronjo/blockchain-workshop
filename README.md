@@ -17,3 +17,6 @@
 * [Web3 JS Series](https://www.youtube.com/watch?v=t3wM5903ty0&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
 * [Truffle Smart Contract Manager](https://www.youtube.com/watch?v=ZaqAwOzEiQ8)
 * [Hardhat Smart Contract Manager](https://www.youtube.com/watch?v=9Qpi80dQsGU)
+
+## Now you have the tools ... go and build stuff
+<a href="https://ethereum.org/"><img src="https://ethereum.org/static/4d030a46f561e5c754cabfc1a97528ff/3bf79/impact_transparent.png" alt="Ethereum Homepage"></a>
