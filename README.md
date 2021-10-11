@@ -8,3 +8,6 @@
 * How to interact with the [Ethereum](https://ethereum.org/) blockchain using JavaScript
 * Some additional resources to learn more about blockchain programming
 
+## Folders
+* `/intro` contains all of the code covered in the intro workshop
+* `/advanced` contains more advanced projects using hardhat and truffle
