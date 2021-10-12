@@ -23,3 +23,18 @@ contract MyContract{    //everything is contained in a contract, similiar to a c
 
 }
 ```
+
+<a href="https://www.npmjs.com/package/web3"><img src="https://www.mycryptopedia.com/wp-content/uploads/2019/04/Web3.js-e1555083881960.jpg" alt="Web3 JS"></a>
+
+```javascript
+const Web3 = require('web3');                //import web3 library
+const web3 = new Web3("MY INFURA LINK");     //connect to ethereum node via infura service 
+
+//you can sign up to infura for free at https://infura.io/
+
+//callback function which fetches the current block number
+//uses the eth library within web3 to fetch the current block number on the Ethereum blockchain 
+web3.eth.getBlockNumber().then((blockNumber) => {
+    console.log("Current block number is : ", blockNumber);
+})
+```
