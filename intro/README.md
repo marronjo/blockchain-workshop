@@ -11,7 +11,7 @@ contract MyContract{    //everything is contained in a contract, similiar to a c
 
     //global variables, can be accessed from anywhere in the contract
     uint number;        //unsigned integer called `number`  
-    string name:        //string (word) called `name`
+    string name;        //string (word) called `name`
 
     //created a function called hello
     //it is a public function, it can be accessed from outside the function
