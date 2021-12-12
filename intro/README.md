@@ -14,7 +14,7 @@ contract MyContract{    //everything is contained in a contract, similiar to a c
     string name;        //string (word) called `name`
 
     //created a function called hello
-    //it is a public function, it can be accessed from outside the function
+    //it is a public function, it can be accessed from outside the contract
     //it is a pure function since it does not modify or read any global variables
     //it returns the string "Hello World!"
     function hello() public pure returns(string memory){
@@ -24,7 +24,7 @@ contract MyContract{    //everything is contained in a contract, similiar to a c
 }
 ```
 
-<a href="https://www.npmjs.com/package/web3"><img src="https://www.mycryptopedia.com/wp-content/uploads/2019/04/Web3.js-e1555083881960.jpg" alt="Web3 JS"></a>
+<a href="https://www.npmjs.com/package/web3"><img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" alt="Web3 JS"></a>
 
 ```javascript
 const Web3 = require('web3');                //import web3 library
