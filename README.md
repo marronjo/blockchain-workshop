@@ -1,6 +1,6 @@
 # Blockchain Workshop
 
-<a href="https://ethereum.org/"><img src="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/3bf79/hero.png" alt="Ethereum Homepage"></a>
+<a href="https://ethereum.org/"><img src="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/5a3c8/hero.webp" alt="Ethereum Homepage"></a>
 
 ## Powerpoint Contents
 * What is a blockchain ?
@@ -19,4 +19,4 @@
 * [Hardhat Smart Contract Manager](https://www.youtube.com/watch?v=9Qpi80dQsGU)
 
 ## Now you have the tools ... go and build stuff
-<a href="https://ethereum.org/"><img src="https://ethereum.org/static/4d030a46f561e5c754cabfc1a97528ff/3bf79/impact_transparent.png" alt="Ethereum Homepage"></a>
+<a href="https://ethereum.org/"><img src="https://ethereum.org/static/4d030a46f561e5c754cabfc1a97528ff/a5c62/impact_transparent.webp" alt="Ethereum Homepage"></a>
